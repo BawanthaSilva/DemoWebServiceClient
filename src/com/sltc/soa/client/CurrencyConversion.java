@@ -5,13 +5,6 @@ import com.sltc.soa.client.stub.CurrencyConversionWsService;
 
 import java.util.Scanner;
 
-/**
- * Created by IntelliJ IDEA.<br/>
- * User: Thilanka<br/>
- * Date: 12/20/2022<br/>
- * Time: 10:31 PM<br/>
- * To change this template use File | Settings | File Templates.
- */
 public class CurrencyConversion {
     public static void main(String[] args) {
         CurrencyConversionWsService currencyConversionWsService = new CurrencyConversionWsService();
